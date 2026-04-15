@@ -18,7 +18,7 @@ Follow the steps below to set up the project environment:
 
 ```bash
 # Clone the repository
-git clone https://github.com/shivangjhalani/OS-Jackfruit.git
+git clone https://github.com/shamsanthosh123/OS-Jackfruit.git
 cd OS-Jackfruit/boilerplate
 
 # Build the project
